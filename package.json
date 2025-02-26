@@ -1,8 +1,8 @@
 {
-  "name": "@deadstone/nestjs-rabbitmq",
+  "name": "@illkap/nestjs-rabbitmq",
   "version": "1.0.0",
   "description": "A package for RabbitMQ integration",
-  "author": "deadstone",
+  "author": "IlyaKaplan2002",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
